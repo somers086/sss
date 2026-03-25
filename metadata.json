@@ -1,0 +1,5 @@
+{
+  "name": "回診與休假計算器",
+  "description": "計算每56天一次的回診日期，並結合「做2休2」排班表，自動判斷回診日是否為休假日。",
+  "requestFramePermissions": []
+}
